@@ -1,2 +1,2 @@
 # Repo1
-This is the reas me file Repo 1
+This is the read me file Repo 1
